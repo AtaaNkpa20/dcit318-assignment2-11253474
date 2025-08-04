@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\dcit318-assignment2-11253474\Inheritance\bin\Debug\net9.0\Inheritance.exe
+C:\Users\HP\Desktop\dcit318-assignment2-11253474\Inheritance\bin\Debug\net9.0\Inheritance.deps.json
+C:\Users\HP\Desktop\dcit318-assignment2-11253474\Inheritance\bin\Debug\net9.0\Inheritance.runtimeconfig.json
+C:\Users\HP\Desktop\dcit318-assignment2-11253474\Inheritance\bin\Debug\net9.0\Inheritance.dll
+C:\Users\HP\Desktop\dcit318-assignment2-11253474\Inheritance\bin\Debug\net9.0\Inheritance.pdb
+C:\Users\HP\Desktop\dcit318-assignment2-11253474\Inheritance\obj\Debug\net9.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\dcit318-assignment2-11253474\Inheritance\obj\Debug\net9.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\dcit318-assignment2-11253474\Inheritance\obj\Debug\net9.0\Inheritance.AssemblyInfo.cs
+C:\Users\HP\Desktop\dcit318-assignment2-11253474\Inheritance\obj\Debug\net9.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\dcit318-assignment2-11253474\Inheritance\obj\Debug\net9.0\Inheritance.dll
+C:\Users\HP\Desktop\dcit318-assignment2-11253474\Inheritance\obj\Debug\net9.0\refint\Inheritance.dll
+C:\Users\HP\Desktop\dcit318-assignment2-11253474\Inheritance\obj\Debug\net9.0\Inheritance.pdb
+C:\Users\HP\Desktop\dcit318-assignment2-11253474\Inheritance\obj\Debug\net9.0\Inheritance.genruntimeconfig.cache
+C:\Users\HP\Desktop\dcit318-assignment2-11253474\Inheritance\obj\Debug\net9.0\ref\Inheritance.dll
